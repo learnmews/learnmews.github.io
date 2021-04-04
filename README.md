@@ -144,7 +144,8 @@ NOTHING TO HIDE (2017) is an independent documentary dealing with surveillance a
 
 ---
 ## Photography
-[The Elements of Photography](https://photographylife.com/elements-of-photography)
+[The Elements of Photography](https://photographylife.com/elements-of-photography)  
+
 ---
 
 ## Youtube Playlists  
