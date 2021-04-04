@@ -1,9 +1,3 @@
-# Notes
-
-## List
-- [My 10 Favorite Free Online Classes](https://www.scotthyoung.com/blog/2021/03/15/best-online-classes/)
-
----
 ## Health and Fitness
 - [Coursera course: Hacking Exercise For Health](health/hackexercise.md)
 - [Future Learn course: Nutrition and Wellbeing](health/nutrition-wellbeing.md)
