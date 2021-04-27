@@ -1,3 +1,13 @@
+## Resources
+[CSS, JS, SQL, CLI and more](resources.md)
+
+---
+
+## List
+- [My 10 Favorite Free Online Classes](https://www.scotthyoung.com/blog/2021/03/15/best-online-classes/)
+
+---
+
 ## Health and Fitness
 - [Coursera course: Hacking Exercise For Health](health/hackexercise.md)
 - [Future Learn course: Nutrition and Wellbeing](health/nutrition-wellbeing.md)
@@ -9,13 +19,14 @@ Sleep hygiene, Exercise, Learn something new - arts, languages
 - [Get Started With Bodyweight Training Today!](https://www.nerdfitness.com/blog/work-out-at-home-at-the-office-or-anywhere-you-want-how-to-get-started-with-bodyweight-training-today/)  
 - [Good sleep, good learning, good life](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life) *long read*  
 *[Discussion](https://news.ycombinator.com/item?id=24737026)*  
+
 ---
 
 ## Money matters
 Reddit [For Someone who is absolutely at level Zero in terms of Money Management](https://www.reddit.com/r/IndiaInvestments/comments/9ltgni/for_someone_who_is_absolutely_at_level_zero_in/)  
 Reddit [Things to know/learn about personal finance](https://www.reddit.com/r/IndiaInvestments/comments/hm07ba/things_to_knowlearn_about_personal_finance_before/)
 
-
+[Financial Independence - Mr Money Mustache](https://vimeo.com/183016901)
 ---
 ## Development
 
@@ -79,7 +90,7 @@ open source libraries
 
 #### Technical Interview
 [Technical Interviewing 101: Ultimate Guide to Acing Your Tech Interview in 2020](https://learntocodewith.me/posts/technical-interview/)  
-[Remote interview tips](https://learntocodewith.me/posts/virtual-interview/)
+[Remote interview tips](https://learntocodewith.me/posts/virtual-interview/)  
 [Interview Cake](https://www.interviewcake.com)  
 [Algo Expert](https://www.algoexpert.io/product)
 
