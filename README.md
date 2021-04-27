@@ -14,7 +14,7 @@
 - [What you can do to prevent Alzheimer's - Lisa Genova](https://www.ted.com/talks/lisa_genova_what_you_can_do_to_prevent_alzheimer_s#t-12210)  
 Sleep hygiene, Exercise, Learn something new - arts, languages  
 - [A Beginner's Guide To Starting A Mindfulness Practice](https://www.shannonharvey.com/blogs/blog/my-year-of-living-mindfully-a-beginners-guide-to-starting-a-mindfulness-practice) - _Shannon Harvey_  
-[Resources - book](https://www.shannonharvey.com/blogs/resources)  
+[Resources - book](https://www.shannonharvey.com/blogs/resources) - _Shannon Harvey_  
 
 - [Get Started With Bodyweight Training Today!](https://www.nerdfitness.com/blog/work-out-at-home-at-the-office-or-anywhere-you-want-how-to-get-started-with-bodyweight-training-today/)  
 - [Good sleep, good learning, good life](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life) *long read*  
@@ -67,6 +67,7 @@ Most importantly, that PUT is idempotent.
 [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
 
 #### Distributed Systems 
+[Living in a distributed world](https://www.slideshare.net/VishalBardoloi/20180516-geeknight-dallas-distributed-systems-talk-2/1)  
 - _Designing Distributed Systems_ by Brendan Burns (with focus on containers and kubernetes)  
 - _Designing data-intensive applications_ by Dr. Martin Kleppmann 
 - [Distributed Systems lecture series](https://www.youtube.com/watch?v=UEAMfLPZZhE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB) *by Dr. Martin Kleppmann*  
