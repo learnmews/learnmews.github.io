@@ -32,9 +32,13 @@ Reddit [Things to know/learn about personal finance](https://www.reddit.com/r/In
 ## Development
 
 #### Architecture and Design  
+[System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 #### Frameworks
 
+
+#### Cloud
+[AWS vs Azure in 2021](https://kinsta.com/blog/aws-vs-azure)  
 
 #### Programming Languages
 [A half-hour to learn Rust](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)  
