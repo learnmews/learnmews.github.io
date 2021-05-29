@@ -81,16 +81,6 @@ Most importantly, that PUT is idempotent.
 #### ML and AI
 [fast.ai](https://www.fast.ai)
 
-#### Deep dives, Long reads and worth watching
-[Classifying 200,000 articles in 7 hours using NLP](https://salt.agency/blog/nlp-and-stuff/)   
---related [Hacker news thread](https://news.ycombinator.com/item?id=23760109)  
-open source libraries   
-[Snorkel](https://github.com/snorkel-team/snorkel), [AllenNLP](https://github.com/allenai/allennlp), [Spacy](https://spacy.io/),
-[Hugginface transformers](https://github.com/huggingface/transformers)
-
-[A few sneak peeks into Hey.com technology](https://dev.to/borama/a-few-sneak-peeks-into-hey-com-technology-i-intro-4bjg)  
-[Zeynep Tufekci: We're building a dystopia just to make people click on ads | TED Talk](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads#t-1363329) 
-
 #### Tools
 [VS code](tools/vscode.md)
 
@@ -135,26 +125,41 @@ open source libraries
 - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
 *by Larry Peterson and Bruce Davie*
 
+- [Eric Carle has died](https://news.ycombinator.com/item?id=27299038)  
+
 
 ---
+
+#### Read
+[Classifying 200,000 articles in 7 hours using NLP](https://salt.agency/blog/nlp-and-stuff/)   
+--related [Hacker news thread](https://news.ycombinator.com/item?id=23760109)  
+open source libraries   
+[Snorkel](https://github.com/snorkel-team/snorkel), [AllenNLP](https://github.com/allenai/allennlp), [Spacy](https://spacy.io/),
+[Hugginface transformers](https://github.com/huggingface/transformers)
+
+[A few sneak peeks into Hey.com technology](https://dev.to/borama/a-few-sneak-peeks-into-hey-com-technology-i-intro-4bjg)  
+[Remembering Allan McDonald: He Refused To Approve Challenger Launch, Exposed Cover-Up](https://text.npr.org/974534021)
+
+--- 
 ## Watch
 [Seeing The Secret State: Six Landscapes](https://media.ccc.de/v/30C3_-_5604_-_en_-_saal_1_-_201312282300_-_seeing_the_secret_state_six_landscapes_-_trevor_paglen#t=6)  
 Although people around the world are becoming increasingly aware of the United States' global geography of surveillance, covert action, and other secret programs, much of this landscape is invisible in our everyday lives.  
 
 [Nothing to Hide - The documentary about surveillance and you (2017)](https://vimeo.com/189016018)  
-NOTHING TO HIDE (2017) is an independent documentary dealing with surveillance and its acceptance by the general public through the "I have nothing to hide" argument.
+NOTHING TO HIDE (2017) is an independent documentary dealing with surveillance and its acceptance by the general public through the "I have nothing to hide" argument.  
+
+[Zeynep Tufekci: We're building a dystopia just to make people click on ads | TED Talk](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads#t-1363329) 
 
 ---
 ## Interesting
 [Letters of Note](https://lettersofnote.com/)  
-[Web Desktops](https://simone.computer/#/webdesktops)
+[Web Desktops](https://simone.computer/#/webdesktops) 
 [StumblingOn](https://stumblingon.com/)
 
 ---
 ## Misc
 - [Postulates](misc/postulates.md)
 - [Quotes](misc/quotes.md)
-- [Remembering Allan McDonald: He Refused To Approve Challenger Launch, Exposed Cover-Up](https://text.npr.org/974534021)
 
 ---
 ## Photography

@@ -9,9 +9,12 @@
 - [OSS/BSS](#ossbss)
 
 
+## Web
+[DOM Events playground](https://domevents.dev/)  
 
 ## CSS
 #### Flexbox
+  - [Learn CSS](https://web.dev/learn/css/)
   - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## JavaScript
