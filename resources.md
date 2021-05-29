@@ -10,7 +10,7 @@
 
 
 ## Web
-[HTML Boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
+[HTML Boilerplate](https://www.matuzo.at/blog/html-boilerplate/)  
 [DOM Events playground](https://domevents.dev/)  
 
 ## CSS

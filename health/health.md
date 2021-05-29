@@ -21,6 +21,6 @@ Sleep hygiene, Exercise, Learn something new - arts, languages
 *[Discussion](https://news.ycombinator.com/item?id=24737026)* 
 
 ---
-### Watch
+### Guides
 
 - [Get Started With Bodyweight Training Today!](https://www.nerdfitness.com/blog/work-out-at-home-at-the-office-or-anywhere-you-want-how-to-get-started-with-bodyweight-training-today/) 
