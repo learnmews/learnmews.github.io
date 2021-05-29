@@ -3,14 +3,13 @@
 
 ---
 
-## List
-- [My 10 Favorite Free Online Classes](https://www.scotthyoung.com/blog/2021/03/15/best-online-classes/)
+## Review
+[My 10 Favorite Free Online Classes](https://www.scotthyoung.com/blog/2021/03/15/best-online-classes/)
 
 ---
 
 ## [Health and Fitness](health/health.md)
  
-
 ---
 
 ## [Money matters](money.md)
@@ -19,23 +18,8 @@
 ---
 ## Development
 
-#### Architecture and Design  
+### Architecture and Design  
 [System Design Primer](https://github.com/donnemartin/system-design-primer)
-
-#### Frameworks
-
-
-#### Cloud
-[AWS vs Azure in 2021](https://kinsta.com/blog/aws-vs-azure)  
-
-#### Programming Languages
-[A half-hour to learn Rust](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)  
-[Learn TLA+](https://www.learntla.com/introduction/)
-[TLA+ discussion](https://news.ycombinator.com/item?id=26385075)
-
-#### Database
-[Use the Index, Luke](https://use-the-index-luke.com/)  
-A guide to database performance for developers  
 
 #### APIs
 [Microsoft REST API guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
@@ -52,6 +36,23 @@ OPTIONS - Get information about a request, is idempotent.
 Most importantly, that PUT is idempotent.  
 -- _from Hacker news_
 
+#### Frameworks
+Yet to add
+
+
+#### Cloud
+[AWS vs Azure in 2021](https://kinsta.com/blog/aws-vs-azure)  
+[Azure White papers](Azure/whitepapers.md)  
+
+#### Programming Languages
+[A half-hour to learn Rust](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/)  
+[Learn TLA+](https://www.learntla.com/introduction/)
+[TLA+ discussion](https://news.ycombinator.com/item?id=26385075)
+
+#### Database
+[Use the Index, Luke](https://use-the-index-luke.com/)  
+A guide to database performance for developers  
+
 #### Security
 [Hardcoded secrets, unverified tokens, and other common JWT mistakes](https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/)
 
@@ -59,7 +60,7 @@ Most importantly, that PUT is idempotent.
 [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
 
 #### Distributed Systems 
-[Living in a distributed world](https://www.slideshare.net/VishalBardoloi/20180516-geeknight-dallas-distributed-systems-talk-2/1)  
+- [Living in a distributed world](https://www.slideshare.net/VishalBardoloi/20180516-geeknight-dallas-distributed-systems-talk-2/1)  
 - _Designing Distributed Systems_ by Brendan Burns (with focus on containers and kubernetes)  
 - _Designing data-intensive applications_ by Dr. Martin Kleppmann 
 - [Distributed Systems lecture series](https://www.youtube.com/watch?v=UEAMfLPZZhE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB) *by Dr. Martin Kleppmann*  
@@ -67,7 +68,12 @@ Most importantly, that PUT is idempotent.
 [Lecture materials and labs](http://nil.csail.mit.edu/6.824/2020/schedule.html)
 
 #### ML and AI
-[fast.ai](https://www.fast.ai)
+[fast.ai](https://www.fast.ai)  
+
+[Classifying 200,000 articles in 7 hours using NLP](https://salt.agency/blog/nlp-and-stuff/)   
+--related [Hacker news thread](https://news.ycombinator.com/item?id=23760109)  
+open source libraries - [Snorkel](https://github.com/snorkel-team/snorkel), [AllenNLP](https://github.com/allenai/allennlp), [Spacy](https://spacy.io/),
+[Hugginface transformers](https://github.com/huggingface/transformers)
 
 #### Tools
 [VS code](tools/vscode.md)
@@ -88,8 +94,6 @@ Most importantly, that PUT is idempotent.
 #### Reactive Programming
 [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
-#### Microsoft Azure  
-[White papers](Azure/whitepapers.md)  
 
 ---
 ## Explore
@@ -119,11 +123,6 @@ Most importantly, that PUT is idempotent.
 ---
 
 #### Read
-[Classifying 200,000 articles in 7 hours using NLP](https://salt.agency/blog/nlp-and-stuff/)   
---related [Hacker news thread](https://news.ycombinator.com/item?id=23760109)  
-open source libraries   
-[Snorkel](https://github.com/snorkel-team/snorkel), [AllenNLP](https://github.com/allenai/allennlp), [Spacy](https://spacy.io/),
-[Hugginface transformers](https://github.com/huggingface/transformers)
 
 [A few sneak peeks into Hey.com technology](https://dev.to/borama/a-few-sneak-peeks-into-hey-com-technology-i-intro-4bjg)  
 [Remembering Allan McDonald: He Refused To Approve Challenger Launch, Exposed Cover-Up](https://text.npr.org/974534021)
@@ -136,12 +135,13 @@ Although people around the world are becoming increasingly aware of the United S
 [Nothing to Hide - The documentary about surveillance and you (2017)](https://vimeo.com/189016018)  
 NOTHING TO HIDE (2017) is an independent documentary dealing with surveillance and its acceptance by the general public through the "I have nothing to hide" argument.  
 
-[Zeynep Tufekci: We're building a dystopia just to make people click on ads | TED Talk](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads#t-1363329) 
+[Zeynep Tufekci: We're building a dystopia just to make people click on ads | TED Talk](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads#t-1363329)  
+
 
 ---
 ## Interesting
 [Letters of Note](https://lettersofnote.com/)  
-[Web Desktops](https://simone.computer/#/webdesktops) 
+[Web Desktops](https://simone.computer/#/webdesktops)  
 [StumblingOn](https://stumblingon.com/)
 
 ---
