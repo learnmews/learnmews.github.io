@@ -135,8 +135,7 @@ Although people around the world are becoming increasingly aware of the United S
 [Nothing to Hide - The documentary about surveillance and you (2017)](https://vimeo.com/189016018)  
 NOTHING TO HIDE (2017) is an independent documentary dealing with surveillance and its acceptance by the general public through the "I have nothing to hide" argument.  
 
-[Zeynep Tufekci: We're building a dystopia just to make people click on ads | TED Talk](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads#t-1363329)  
- 
+[Zeynep Tufekci: We're building a dystopia just to make people click on ads | TED Talk](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads#t-1363329)
 
 
 ---
