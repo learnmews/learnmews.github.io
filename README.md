@@ -8,25 +8,13 @@
 
 ---
 
-## Health and Fitness
-- [Coursera course: Hacking Exercise For Health](health/hackexercise.md)
-- [Future Learn course: Nutrition and Wellbeing](health/nutrition-wellbeing.md)
-- [What you can do to prevent Alzheimer's - Lisa Genova](https://www.ted.com/talks/lisa_genova_what_you_can_do_to_prevent_alzheimer_s#t-12210)  
-Sleep hygiene, Exercise, Learn something new - arts, languages  
-- [A Beginner's Guide To Starting A Mindfulness Practice](https://www.shannonharvey.com/blogs/blog/my-year-of-living-mindfully-a-beginners-guide-to-starting-a-mindfulness-practice) - _Shannon Harvey_  
-[Resources - book](https://www.shannonharvey.com/blogs/resources) - _Shannon Harvey_  
-
-- [Get Started With Bodyweight Training Today!](https://www.nerdfitness.com/blog/work-out-at-home-at-the-office-or-anywhere-you-want-how-to-get-started-with-bodyweight-training-today/)  
-- [Good sleep, good learning, good life](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life) *long read*  
-*[Discussion](https://news.ycombinator.com/item?id=24737026)*  
+## [Health and Fitness](health/health.md)
+ 
 
 ---
 
-## Money matters
-Reddit [For Someone who is absolutely at level Zero in terms of Money Management](https://www.reddit.com/r/IndiaInvestments/comments/9ltgni/for_someone_who_is_absolutely_at_level_zero_in/)  
-Reddit [Things to know/learn about personal finance](https://www.reddit.com/r/IndiaInvestments/comments/hm07ba/things_to_knowlearn_about_personal_finance_before/)
-
-[Financial Independence - Mr Money Mustache](https://vimeo.com/183016901)
+## [Money matters](money.md)
+ 
 
 ---
 ## Development
