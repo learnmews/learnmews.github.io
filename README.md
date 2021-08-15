@@ -3,9 +3,9 @@
 
 ---
 
-## Review
+## Learning
 [My 10 Favorite Free Online Classes](https://www.scotthyoung.com/blog/2021/03/15/best-online-classes/)
-
+[Courses, Tutorials and guides](learn/learn.md)
 ---
 
 ## [Health and Fitness](health/health.md)
@@ -20,6 +20,8 @@
 
 ### Architecture and Design  
 [System Design Primer](https://github.com/donnemartin/system-design-primer)
+[Generating short urls](https://github.com/delight-im/ShortURL)  
+-- not a full blown url generator but the key logic for using bijective conversion
 
 ### Frameworks
 
@@ -77,7 +79,9 @@ open source libraries - [Snorkel](https://github.com/snorkel-team/snorkel), [All
 [Hugginface transformers](https://github.com/huggingface/transformers)
 
 #### Tools
-[VS code](tools/vscode.md)
+[VS code](tools/vscode.md)  
+[typesense](https://typesense.org)  
+
 
 #### Technical Interview
 [Technical Interviewing 101: Ultimate Guide to Acing Your Tech Interview in 2020](https://learntocodewith.me/posts/technical-interview/)  
@@ -127,6 +131,7 @@ open source libraries - [Snorkel](https://github.com/snorkel-team/snorkel), [All
 
 [A few sneak peeks into Hey.com technology](https://dev.to/borama/a-few-sneak-peeks-into-hey-com-technology-i-intro-4bjg)  
 [Remembering Allan McDonald: He Refused To Approve Challenger Launch, Exposed Cover-Up](https://text.npr.org/974534021)
+[The unreasonable effectiveness of just showing up everyday](https://news.ycombinator.com/item?id=27833064)
 
 --- 
 ## Watch
@@ -149,6 +154,7 @@ NOTHING TO HIDE (2017) is an independent documentary dealing with surveillance a
 ## Misc
 - [Postulates](misc/postulates.md)
 - [Quotes](misc/quotes.md)
+- [Learn Chess](https://lichess.org)
 
 ---
 ## Photography
