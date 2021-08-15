@@ -21,6 +21,10 @@
 ### Architecture and Design  
 [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
+### Frameworks
+
+[Microsoft FAST design](https://www.fast.design/docs/introduction/)  
+
 #### APIs
 [Microsoft REST API guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
 
@@ -34,10 +38,7 @@ HEAD - Return metadata of an object for a GET response. Resources that support t
 PATCH - Apply a partial update to an object, NOT idempotent;  
 OPTIONS - Get information about a request, is idempotent.  
 Most importantly, that PUT is idempotent.  
--- _from Hacker news_
-
-#### Frameworks
-Yet to add
+-- _from Hacker news_  
 
 
 #### Cloud
@@ -87,6 +88,7 @@ open source libraries - [Snorkel](https://github.com/snorkel-team/snorkel), [All
 ### Topics
 
 #### Unicode  
+[The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)  
 [Unicode in five minutes](https://richardjharris.github.io/unicode-in-five-minutes.html)  
 [Characters, Symbols and the Unicode Miracle](https://www.youtube.com/watch?v=MijmeoH9LT4)  
 [Unicode programming with examples](https://begriffs.com/posts/2019-05-23-unicode-icu.html)
@@ -102,7 +104,6 @@ open source libraries - [Snorkel](https://github.com/snorkel-team/snorkel), [All
 *organize knowledge* [Ask HN: How do you share/organize knowledge at work and life?](https://news.ycombinator.com/item?id=21310030)  
 *Home automation* [Huginn: Create agents that monitor and act on your behalf](https://news.ycombinator.com/item?id=21772610)   
 [FastAPI framework](https://github.com/tiangolo/fastapi)  
-[Fast Design](https://www.fast.design)
 
 ---
 ## Books
